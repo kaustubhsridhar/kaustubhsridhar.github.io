@@ -5,4 +5,4 @@ Personal pages
 
 To run: "bundle exec jekyll serve"
 
-Borrowed (with lots of thanks) from (Ashvin Nair's webpage)[https://ashvin.me/]
+Borrowed (with lots of thanks) from [Ashvin Nair's webpage](https://ashvin.me/)
