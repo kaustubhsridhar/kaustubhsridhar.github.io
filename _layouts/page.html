@@ -68,6 +68,9 @@ $( document ).ready(function() {
             {% if post.pdf %}
               [<a href="{{ post.pdf }}">PDF</a>]
             {% endif %}
+            {% if post.codelink %}
+              [<a href="{{ post.codelink }}">Code</a>]
+            {% endif %}
             {% if post.projectlink %}
               [<a href="{{ post.projectlink }}">Website</a>]
             {% endif %}
