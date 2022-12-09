@@ -36,10 +36,13 @@ $( document ).ready(function() {
       {% for tag in site.tags %}
         {% assign t = tag | first %}
         {% if t != "robust deep learning" %}
+        {% if t != "CPS attack recovery" %}
           <li><a href="javascript:toggleDiv('{{ t | downcase }}');">{{ t | downcase }}</a> {% unless forloop.last %} | {% endunless %} </li>
+        {% endif %}
         {% endif %}
       {% endfor %}
       <li>| <a href="javascript:toggleDiv('robust deep learning');">robust deep learning</a></li>
+      <li>| <a href="javascript:toggleDiv('CPS attack recovery');">CPS attack recovery</a></li>
       </ul>
     </div>
   </center>
