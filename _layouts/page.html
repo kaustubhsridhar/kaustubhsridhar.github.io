@@ -74,6 +74,12 @@ $( document ).ready(function() {
             {% if post.projectlink %}
               [<a href="{{ post.projectlink }}">Website</a>]
             {% endif %}
+            {% if post.videolink %}
+              [<a href="{{ post.videolink }}">Video</a>]
+            {% endif %}
+            {% if post.posterlink %}
+              [<a href="{{ post.posterlink }}">Poster</a>]
+            {% endif %}
             <!-- <div class="date"> -->
               <!-- {{ post.date | date: "%b %Y" }} -->
             <!-- </div> -->
