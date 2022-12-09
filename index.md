@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-<img src="assets/dp.png" alt="dp" align="left" style="width: 35%; margin-right: 20px;"/>
+<img src="assets/dp_circ.png" alt="dp" align="left" style="width: 35%; margin-right: 20px;"/>
 
 empty rn!
 
