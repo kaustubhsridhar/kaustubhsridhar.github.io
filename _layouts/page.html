@@ -68,7 +68,9 @@ $( document ).ready(function() {
             {% if post.pdf %}
               [<a href="{{ post.pdf }}">PDF</a>]
             {% endif %}
-            [<a href="{{ post.projectlink }}">Website</a>]
+            {% if post.projectlink %}
+              [<a href="{{ post.projectlink }}">Website</a>]
+            {% endif %}
             <!-- <div class="date"> -->
               <!-- {{ post.date | date: "%b %Y" }} -->
             <!-- </div> -->
