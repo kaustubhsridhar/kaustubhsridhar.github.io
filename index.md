@@ -10,7 +10,17 @@ I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Syste
 
 My research interests span reinforcement learning (RL), learning for dynamics and control (L4DC), and robust deep learning with applications in cloud-computing, robotics, and cyber-physical systems.
 
-I've interned at <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a> and <a href="https://www.argo.ai/">Argo AI</a> during my PhD. Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> and did an undergraduate internship at Duke University. 
+Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> and did an undergraduate internship at Duke University. 
+
+*Internships*
+* May-Aug 2022 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a>
+* May-Aug 2021 - <a href="https://www.argo.ai/">Argo AI</a> (Ford and VW's self-driving partner)
+
+*Awards*
+* Top reviewer, NeurIPS 2022
+* Outstanding reviewer (top 10%), ICML 2022
+* The Dean's Fellowship and Howard Broadwell Fellowship, University of Pennsylvania 
+* SN Bose Scholarship and KVPY Fellowship, Gov. of India
 
 My research (and publications) are listed below.
 
