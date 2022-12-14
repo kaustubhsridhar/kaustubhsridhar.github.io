@@ -12,13 +12,13 @@ My research interests span reinforcement learning (RL), learning for dynamics an
 
 Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> and did an undergraduate internship at Duke University. 
 
-*Internships*
-* May-Aug 2022 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a>
+*Research Internships*
+* May-Aug 3022 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a>
 * May-Aug 2021 - <a href="https://www.argo.ai/">Argo AI</a> (Ford and VW's self-driving partner)
 
 *Awards*
-* Top reviewer, NeurIPS 2022
-* Outstanding reviewer (top 10%), ICML 2022
+* <a href="https://nips.cc/Conferences/2022/ProgramCommittee#%23:~:text=Katsuhiko%20Ishiguro-,Kaustubh%20Sridhar,Ke%20Sun,-Keane%20Lucas">Top reviewer</a>, NeurIPS 2022
+* <a href="https://icml.cc/Conferences/2022/Reviewers#%23:~:text=Kartik%20Sreenivasan-,kaustubh%20sridhar,-Ke%20Sun">Outstanding reviewer</a> (top 10%), ICML 2022
 * The Dean's Fellowship and Howard Broadwell Fellowship, University of Pennsylvania 
 * SN Bose Scholarship and KVPY Fellowship, Gov. of India
 
