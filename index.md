@@ -10,7 +10,7 @@ I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Syste
 
 My research interests span reinforcement learning (RL), learning for dynamics and control (L4DC), and robust deep learning with applications in cloud-computing, robotics, and cyber-physical systems.
 
-Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> and did an undergraduate internship at Duke University. 
+Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> in 2019. 
 
 *Research Internships*
 * May-Aug 2022 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a>
