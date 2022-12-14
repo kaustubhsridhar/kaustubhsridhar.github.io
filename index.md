@@ -19,8 +19,9 @@ Before starting my PhD, I graduated with honors from the <a href="https://www.ii
 *Awards*
 * <a href="https://nips.cc/Conferences/2022/ProgramCommittee#%23:~:text=Katsuhiko%20Ishiguro-,Kaustubh%20Sridhar,Ke%20Sun,-Keane%20Lucas">Top reviewer</a>, NeurIPS 2022
 * <a href="https://icml.cc/Conferences/2022/Reviewers#%23:~:text=Kartik%20Sreenivasan-,kaustubh%20sridhar,-Ke%20Sun">Outstanding reviewer</a> (top 10%), ICML 2022
-* The Dean's Fellowship and Howard Broadwell Fellowship, University of Pennsylvania 
-* SN Bose Scholarship and KVPY Fellowship, Gov. of India
+* The Dean's Fellowship and Howard Broadwell Fellowship, University of Pennsylvania, 2019
+* SN Bose Scholarship and KVPY Fellowship, Gov. of India, 2018 and 2015 respectively
+* Dan 1 (black belt), Shotokan Karate Association, 2011
 
 My research (and publications) are listed below.
 
