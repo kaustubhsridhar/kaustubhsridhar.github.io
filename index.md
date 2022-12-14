@@ -13,7 +13,7 @@ My research interests span reinforcement learning (RL), learning for dynamics an
 Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> and did an undergraduate internship at Duke University. 
 
 *Research Internships*
-* May-Aug 3022 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a>
+* May-Aug 2022 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a>
 * May-Aug 2021 - <a href="https://www.argo.ai/">Argo AI</a> (Ford and VW's self-driving partner)
 
 *Awards*
