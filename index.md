@@ -8,7 +8,7 @@ permalink: /
 
 I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Systems Enginnering</a> at the University of Pennsylvania, where I'm advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>.
 
-[//]: #  <a href="https://www.seas.upenn.edu/~weimerj/research.html">James Weimer</a> and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
+[//]: #  <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a> and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
 
 My research interests span reinforcement learning (RL), learning for dynamics and control (L4DC), and robust deep learning with applications in cloud-computing, robotics, and cyber-physical systems.
 
