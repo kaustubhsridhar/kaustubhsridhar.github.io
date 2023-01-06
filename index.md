@@ -27,8 +27,10 @@ Before starting my PhD, I graduated with honors from the <a href="https://www.ii
 * SN Bose Scholarship and KVPY Fellowship, Gov. of India, 2018 and 2015 respectively
 * Dan 1 (black belt), Shotokan Karate Association, 2011
 
-My research (and publications) are listed below.
+My contact information is below.
 
 Email: <a target="_blank" title="Email" href="mailto:ksridhar@seas.upenn.edu">ksridhar@seas.upenn.edu</a>.<br>
 <a target="_blank" title="follow me on Twitter" href="https://www.twitter.com/ksridhar"><img alt="follow me on Twitter" src="https://marketing.create-cdn.net/assets/twitter30x30.png" border=0></a> <a target="_blank" title="let's connect on LinkedIn" href="https://www.linkedin.com/in/kaustubh-sridhar-8636797a/"><img alt="let's connect on LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="30px" border=0></a> <a target="_blank" title="Google Scholar page" href="https://scholar.google.com/citations?user=V-HiOnUAAAAJ&hl=en"><img alt="Google Scholar page" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="30px" border=0></a> <a target="_blank" title="Semantic Scholar page" href="https://www.semanticscholar.org/author/Kaustubh-Sridhar/2065757795"><img alt="Semantic Scholar page" src="assets/semantic.png" width="30px" border=0></a> 
 <!-- <a target="_blank" title="Email" href="mailto:ksridhar@seas.upenn.edu"><img alt="Gmail" src="assets/gmail_old.png" width="30px" border=0></a> -->
+
+My research (and publications) are listed below. My CV can be found <a href="cv.pdf" target="_blank">here</a>.
