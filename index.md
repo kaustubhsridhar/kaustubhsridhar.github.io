@@ -10,7 +10,7 @@ I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Syste
 
 [//]: #  <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a> and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
 
-My research interests span reinforcement learning (RL), learning for dynamics and control (L4DC), and robust deep learning. Further, robotics, cloud computing, cyber-physical systems (think autonomous vehicles, electric grids, etc.), and operations research interest me as application domains for reinforcement learning and deep learning.
+My research interests span reinforcement learning (RL), robust deep learning, and learning for dynamics and control (L4DC). Further, robotics, cloud computing, cyber-physical systems (think autonomous vehicles, electric grids, etc.), and operations research interest me as application domains for reinforcement learning and deep learning.
 
 Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> in 2019. 
 
@@ -24,7 +24,8 @@ Before starting my PhD, I graduated with honors from the <a href="https://www.ii
 * Student Travel Grant, American Control Conference, 2022
 * The Dean's Fellowship, University of Pennsylvania, 2019
 * The Howard Broadwell Fellowship, University of Pennsylvania, 2019
-* SN Bose Scholarship and KVPY Fellowship, Gov. of India, 2018 and 2015 respectively
+* SN Bose Scholarship, Gov. of India, 2018 
+* KVPY Fellowship, Gov. of India, 2015
 * Dan 1 (black belt), Shotokan Karate Association, 2011
 
 My contact information is below.
