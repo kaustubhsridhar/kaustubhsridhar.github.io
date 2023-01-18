@@ -5,7 +5,7 @@ rinfo: <a href="https://www.linkedin.com/in/mengyu-liu-6177b4b5/">Mengyu Liu</a>
 pdf: https://ieeexplore.ieee.org/abstract/document/9984726
 date:   2022-05-01 23:00:00
 types: []
-tags: [all, CPS attack recovery]
+tags: [all, CPS safety and security]
 category: code
 comments: true
 externalimg: assets/hidden.png

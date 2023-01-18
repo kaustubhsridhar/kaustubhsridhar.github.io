@@ -5,7 +5,7 @@ rinfo: <u>Kaustubh Sridhar</u>, <a href="http://cs.rpi.edu/~ivanor/">Radoslav Iv
 pdf: https://arxiv.org/abs/2205.08650
 date:   2020-10-01 22:00:00
 types: []
-tags: [all, CPS attack recovery]
+tags: [all, CPS safety and security]
 category: code
 comments: true
 externalimg: assets/checkpointing.png

@@ -39,7 +39,7 @@ $( document ).ready(function() {
         {% assign t = tag | first %}
         {% if t != "robust deep learning" %}
         {% if t != "reinforcement learning" %}
-        {% if t != "CPS attack recovery" %}
+        {% if t != "CPS safety and security" %}
         {% if t != "all" %}
           <li><a href="javascript:toggleDiv('{{ t | downcase }}');">{{ t | downcase }}</a> {% unless forloop.last %} | {% endunless %} </li>
         {% endif %}
@@ -49,7 +49,7 @@ $( document ).ready(function() {
       {% endfor %} -->
       <li>| <a href="javascript:toggleDiv('learning for dynamics and control');">learning for dynamics and control</a></li>
       <li>| <a href="javascript:toggleDiv('robust deep learning');">robust deep learning</a></li>
-      <li>| <a href="javascript:toggleDiv('CPS attack recovery');">CPS safety and security</a></li>
+      <li>| <a href="javascript:toggleDiv('CPS safety and security');">CPS safety and security</a></li>
       </ul>
     </div>
   </center>
