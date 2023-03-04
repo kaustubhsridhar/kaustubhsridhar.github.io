@@ -5,7 +5,7 @@ rinfo: <u>Kaustubh Sridhar</u>, <a href="https://sites.google.com/site/duttasour
 pdf: https://arxiv.org/abs/2212.01346
 date:   2022-11-30 22:30:00
 types: []
-tags: [all, learning for dynamics and control]
+tags: [all, neurosymbolic generative models]
 category: code
 comments: true
 externalimg: assets/predictions_at_rest_0_seed_20timesteps.gif

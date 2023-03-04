@@ -5,7 +5,7 @@ rinfo: <u>Kaustubh Sridhar</u>, <a href="https://www.linkedin.com/in/vikramanksi
 pdf: https://arxiv.org/abs/2212.01348
 date:   2022-11-30 22:00:00
 types: []
-tags: [all, reinforcement learning, learning for dynamics and control]
+tags: [all, reinforcement learning]
 category: code
 comments: true
 externalimg: assets/CLOUD_BPP_Animation.gif
