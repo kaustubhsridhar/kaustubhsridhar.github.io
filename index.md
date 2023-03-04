@@ -10,7 +10,7 @@ I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Syste
 
 [//]: #  <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a> and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
 
-My research interests are at the intersection of machine learning and control theory.
+My research is at the intersection of machine learning and control theory.
 
 Currently, I am interested in deep reinforcement learning, neurosymbolic generative models, and robust deep learning, with applications in robotics, cloud computing, cyber-physical systems (autonomous vehicles, electric grids, etc.), and operations research.
 
