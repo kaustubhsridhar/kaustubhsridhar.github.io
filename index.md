@@ -12,7 +12,7 @@ I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Syste
 
 My research interests are at the intersection of machine learning and sequential decision making.
 
-Currently, I am interested in deep reinforcement learning, neurosymbolic generative models, and robust deep learning, with applications in robotics, cloud computing, cyber-physical systems (autonomous vehicles, electric grids, etc.), and operations research. 
+Currently, I am excited about deep reinforcement learning, neurosymbolic generative models, and robust deep learning, with applications in robotics, cloud computing, cyber-physical systems (autonomous vehicles, electric grids, etc.), and operations research. 
 
 Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> in 2019. 
 
