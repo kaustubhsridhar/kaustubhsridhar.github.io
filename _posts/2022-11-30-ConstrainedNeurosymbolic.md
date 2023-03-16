@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Guaranteed Conformance of Neurosymbolic Models to Natural Constraints."
-rinfo: <u>Kaustubh Sridhar</u>, <a href="https://sites.google.com/site/duttasouradeep39/">Souradeep Dutta</a>, <a href="https://www.seas.upenn.edu/~weimerj/research.html">James Weimer</a>, <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a>. Submitted to Learning for Dynamics and Control (L4DC) Conference 2023. <i>International Conference on Learning Representations (ICLR) 2023 Workshop on Neurosymbolic Generative Models</i>.
+rinfo: <u>Kaustubh Sridhar</u>, <a href="https://sites.google.com/site/duttasouradeep39/">Souradeep Dutta</a>, <a href="https://www.seas.upenn.edu/~weimerj/research.html">James Weimer</a>, <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a>. Learning for Dynamics and Control (L4DC) Conference 2023. <i>International Conference on Learning Representations (ICLR) 2023 Workshop on Neurosymbolic Generative Models</i>.
 pdf: https://arxiv.org/abs/2212.01346
 date:   2022-11-30 22:30:00
 types: []
