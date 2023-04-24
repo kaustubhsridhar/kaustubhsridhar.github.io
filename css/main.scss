@@ -97,6 +97,17 @@ $pp-margin: 20px; // 4vh; //
   }
 }
 
+ul {
+  position: relative;
+  list-style: none;
+}
+
+li::before {
+  content: '▶';
+  position: absolute;
+  left: 0;
+}
+
 .postsbytags {
   ul {
       list-style-type: none;
