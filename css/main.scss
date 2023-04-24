@@ -100,12 +100,13 @@ $pp-margin: 20px; // 4vh; //
 .postsbytags {
   ul {
       list-style-type: none;
-      margin: 10px;
-      padding: 10px;
+      margin: 0px;
+      padding: 0px;
   }
 
   li {
       display: inline;
+      margin: 100px;
   }
   
 }
