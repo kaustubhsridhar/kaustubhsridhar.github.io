@@ -3,6 +3,11 @@
 ---
 @charset "utf-8";
 
+ul {
+  margin: 100px;
+  padding: 0px;
+}
+
 
 
 // Our variables
@@ -106,7 +111,6 @@ $pp-margin: 20px; // 4vh; //
 
   li {
       display: inline;
-      margin: 100px;
   }
   
 }
