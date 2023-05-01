@@ -11,4 +11,5 @@ comments: true
 externalimg: assets/combined_fetch_gfootball.gif
 codelink: https://github.com/sticky-mittens
 projectlink: https://sites.google.com/view/stickymittens/home
+posterlink: https://docs.google.com/presentation/d/1kTsukRIPgaPd0UCQHUuOP_8D0l95Frof/edit?usp=sharing&ouid=116779056433539742394&rtpof=true&sd=true
 ---
