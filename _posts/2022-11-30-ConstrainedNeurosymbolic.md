@@ -10,4 +10,5 @@ category: code
 comments: true
 externalimg: assets/predictions_at_rest_0_seed_20timesteps.gif
 codelink: https://github.com/kaustubhsridhar/Constrained_Models
+videolink: https://youtu.be/jBXNJmArb5M
 ---
