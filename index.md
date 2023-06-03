@@ -6,7 +6,7 @@ permalink: /
 
 <img src="assets/dp_circ.png" alt="dp" align="left" style="width: 35%; margin-right: 20px;"/>
 
-I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania, where I'm gratefully advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>. I'm also thankful for amazing collaborations with <a href="https://sites.google.com/site/duttasouradeep39/">Souradeep Dutta</a>, <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>, <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>, <a href="https://sites.google.com/site/fanxink">Fanxin Kong</a>, <a href="https://obastani.github.io/">Osbert Bastani</a>, and <a href="https://statistics.wharton.upenn.edu/profile/dobriban/">Edgar Dobriban</a>.
+I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania, where I'm gratefully advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>. I'm also thankful for collaborations with <a href="https://sites.google.com/site/duttasouradeep39/">Souradeep Dutta</a>, <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>, <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>, <a href="https://sites.google.com/site/fanxink">Fanxin Kong</a>, <a href="https://obastani.github.io/">Osbert Bastani</a>, and <a href="https://statistics.wharton.upenn.edu/profile/dobriban/">Edgar Dobriban</a>.
 
 My research interests are at the intersection of machine learning and sequential decision making.
 
@@ -15,8 +15,7 @@ Currently, I am excited about deep reinforcement and imitation learning, neurosy
 Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> in 2019. 
 
 *Research Internships*
-* May-Aug 2023 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a>
-* May-Aug 2022 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a>
+* May-Aug 2022 and May-Aug 2023 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a> with <a href="https://sites.google.com/site/muralibalki">Murali Narayanaswamy</a> and <a href="https://abishek90.github.io/">Abishek Sankaraman</a>.
 * May-Aug 2021 - <a href="https://www.argo.ai/">Argo AI</a> (Ford and VW's self-driving partner)
 
 *Awards*
