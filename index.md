@@ -8,8 +8,6 @@ permalink: /
 
 I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania, where I'm gratefully advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>. I'm also thankful for amazing collaborations with <a href="https://sites.google.com/site/duttasouradeep39/">Souradeep Dutta</a>, <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>, <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>, <a href="https://obastani.github.io/">Osbert Bastani</a>, <a href="https://statistics.wharton.upenn.edu/profile/dobriban/">Edgar Dobriban</a>, <a href="https://sites.google.com/site/fanxink">Fanxin Kong</a>, and many others.
 
-[//]: #  <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a> and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
-
 My research interests are at the intersection of machine learning and sequential decision making.
 
 Currently, I am excited about deep reinforcement and imitation learning, neurosymbolic generative models, and robust deep learning, with applications in robotics, cloud computing, cyber-physical systems (autonomous vehicles, electric grids, etc.), and operations research. 
