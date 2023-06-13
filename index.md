@@ -15,7 +15,7 @@ Currently, I am excited about deep reinforcement and imitation learning, neurosy
 Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> in 2019. 
 
 *Research Internships*
-* May-Aug 2022 and May-Aug 2023 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a> <!-- with <a href="https://sites.google.com/site/muralibalki">Murali Narayanaswamy</a> and <a href="https://abishek90.github.io/">Abishek Sankaraman</a>. -->
+* May-Aug 2023 / 2022 - <a href="https://aws.amazon.com/machine-learning/ai-services/">Amazon Web Services (AWS) AI Labs</a> <!-- with <a href="https://sites.google.com/site/muralibalki">Murali Narayanaswamy</a> and <a href="https://abishek90.github.io/">Abishek Sankaraman</a>. -->
 * May-Aug 2021 - <a href="https://www.argo.ai/">Argo AI</a> (Ford and VW's self-driving partner)
 
 *Awards*
