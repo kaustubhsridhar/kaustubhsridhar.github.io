@@ -8,7 +8,7 @@ types: []
 tags: [all, neurosymbolic generative models]
 category: code
 comments: true
-externalimg: assets/predictions_at_rest_0_seed_20timesteps.gif
+externalimg: assets/neurosymbolic.jpeg
 codelink: https://github.com/kaustubhsridhar/Constrained_Models
 videolink: https://youtu.be/jBXNJmArb5M
 posterlink: https://docs.google.com/presentation/d/1Lr1eczCTgdFIt2dzvMwRG7SQwPO0PpAX/edit?usp=sharing&ouid=116779056433539742394&rtpof=true&sd=true
