@@ -1,7 +1,7 @@
 ---
 layout: research
 title:  "Large Language Models for Fixing Reward Hacking."
-rinfo: <u>Kaustubh Sridhar</u>, Richard Ren, William Francis, Adam Alavi. <ul>➥Course Project.</ul>
+rinfo: <u>Kaustubh Sridhar</u>, Richard Ren, William Francis, Adam Alavi. <ul>➥ Course Project.</ul>
 pdf: 
 date:   2023-04-21 22:00:00
 types: []
