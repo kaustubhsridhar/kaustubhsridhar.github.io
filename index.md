@@ -6,7 +6,7 @@ permalink: /
 
 <img src="assets/dp_circ.png" alt="dp" align="left" style="width: 35%; margin-right: 20px;"/>
 
-I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania, where I'm advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>. I also closely collaborate with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a> and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
+I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania, where I'm advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a>. I also closely collaborate with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>, <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>, and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
 
 My research interests are at the intersection of machine learning and sequential decision making.
 
