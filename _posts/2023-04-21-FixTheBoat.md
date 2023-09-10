@@ -5,7 +5,7 @@ rinfo: <u>Kaustubh Sridhar</u>, Richard Ren, William Francis, Adam Alavi. <ul>âž
 pdf: 
 date:   2023-04-21 22:00:00
 types: []
-tags: [all, reinforcement learning]
+tags: [other]
 category: code
 comments: true
 externalimg: assets/hacked.gif

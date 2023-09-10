@@ -6,7 +6,7 @@ pdf: https://arxiv.org/abs/2205.08650
 codelink: https://github.com/kaustubhsridhar/checkpointing_and_recovery
 date:   2020-10-01 22:00:00
 types: []
-tags: [all, CPS safety and security]
+tags: [other]
 category: code
 comments: true
 externalimg: assets/checkpointing.png

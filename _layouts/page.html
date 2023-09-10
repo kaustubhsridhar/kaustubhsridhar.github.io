@@ -34,7 +34,7 @@ $( document ).ready(function() {
     <div class="postsbytags">
       <ul>
       <li><a href="javascript:toggleDiv('all');">all</a></li>
-      <li>| <a href="javascript:toggleDiv('reinforcement learning');">reinforcement learning</a></li>
+      <li>| <a href="javascript:toggleDiv('reinforcement and imitation learning');">reinforcement and imitation learning</a></li>
       <!-- {% for tag in site.tags %}
         {% assign t = tag | first %}
         {% if t != "robust deep learning" %}
@@ -50,7 +50,7 @@ $( document ).ready(function() {
       <!-- <li>| <a href="javascript:toggleDiv('learning for dynamics and control');">learning for dynamics and control</a></li> -->
       <li>| <a href="javascript:toggleDiv('neurosymbolic generative models');">neurosymbolic generative models</a></li>
       <li>| <a href="javascript:toggleDiv('robust deep learning');">robust deep learning</a></li>
-      <li>| <a href="javascript:toggleDiv('CPS safety and security');">cyber-physical systems</a></li>
+      <li>| <a href="javascript:toggleDiv('other');">other</a></li>
       </ul>
     </div>
   </center>
@@ -74,7 +74,7 @@ $( document ).ready(function() {
           {% elsif post.externalimg %}
             <img src="{{ post.externalimg }}">
           {% else %}
-            <img src="{{ site.url }}/assets/default.png">
+            <img src="{{ site.url }}/assets/soon.png">
           {% endif %}
           <div class="researchtitle">
             <b>{{ post.title }}</b> {{ post.rinfo }}<br />

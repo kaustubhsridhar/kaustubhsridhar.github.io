@@ -2,12 +2,13 @@
 title: Kaustubh Sridhar
 email: ksridhar@seas.upenn.edu
 description: > # this means to ignore newlines until "baseurl:"
-  My home on the web. Foundations for this home from <a href='https://ashvin.me/''>Ashvin Nair</a>.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://kaustubhsridhar.github.io" # the base hostname & protocol for your site
 #url: "http://localhost:4000" # the base hostname & protocol for your site
 github_username:  kaustubhsridhar
 twitter_username: _k_sridhar
+linkedin_username: kaustubh-sridhar-8636797a
+gscholar_username: V-HiOnUAAAAJ&hl
 
 # Build settings
 markdown: kramdown
