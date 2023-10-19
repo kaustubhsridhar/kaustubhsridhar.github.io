@@ -40,7 +40,7 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
 <h1 id="media">Media</h1>
 <p align="left">
   <a href="https://blog.seas.upenn.edu/making-better-decisions-with-ai/">
-  <img src="assets/penn_media.png" width="150" height="50" alt="Penn Engineering Today (Blog)">
+  <img src="assets/penn_media.png" width="200" height="50" alt="Penn Engineering Today (Blog)">
   </a>
 </p>
 
