@@ -37,5 +37,12 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
 * KVPY Fellowship, Gov. of India, 2015
 * Dan 1 (black belt), Shotokan Karate Association, 2011
 
+<h1 id="media">Media</h1>
+<p align="left">
+  <a href="https://blog.seas.upenn.edu/making-better-decisions-with-ai/">
+  <img src="assets/penn_media.png" width="150" height="50" alt="Penn Engineering Today (Blog)">
+  </a>
+</p>
+
 <h1 id="publications">Publications</h1>
 Please select one of the following topics.
