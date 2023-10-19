@@ -6,7 +6,7 @@ pdf: https://ieeexplore.ieee.org/document/10155711
 codelink: https://github.com/CPSEC/nonlinear-recovery
 date:   2022-06-01 22:00:00
 types: []
-tags: [other]
+tags: [all, other]
 category: code
 comments: true
 externalimg: assets/car_eg.png
