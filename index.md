@@ -38,7 +38,7 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
 * Dan 1 (black belt), Shotokan Karate Association, 2011
 
 <h1 id="media">Media</h1>
-<p align="center">
+<p align="left">
   <a href="https://blog.seas.upenn.edu/making-better-decisions-with-ai/">
   <img style="border:solid;" src="assets/penn_media.png" width="180" height="40" alt="Penn Engineering Today (Blog)">
   </a>
