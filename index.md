@@ -6,7 +6,7 @@ permalink: /
 
 <img src="assets/dp_circ.png" alt="dp" align="right" style="width: 20%; margin-right: 20px;"/>
 
-<h1 id="hi">Kaustubh Sridhar.</h1>
+<h1 id="hi">Kaustubh Sridhar</h1>
 
 Hi there! I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania, where I'm advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a>. I also closely collaborate with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>, <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>, and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
 
