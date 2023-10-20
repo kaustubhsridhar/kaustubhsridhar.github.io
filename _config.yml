@@ -1,5 +1,5 @@
 # Site settings
-title: Kaustubh Sridhar
+title: Home
 email: ksridhar@seas.upenn.edu
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
