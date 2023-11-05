@@ -10,7 +10,7 @@ permalink: /
 
 Hi there! I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania, where I'm advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a>. I also closely collaborate with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>, <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>, and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
 
-My research interests are in generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
+My research interests are in creating scalable, robust, and adaptable decision-making algorithms. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
 
 My current aim is to create pretrained models for decision-making that generalize to out-of-distribution tasks and environments via in-context learning. I believe that semi-parametric methods (e.g., retrieval + transformers) will help achieve this goal.
 
