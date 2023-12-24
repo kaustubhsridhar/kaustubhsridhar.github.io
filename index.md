@@ -12,7 +12,7 @@ Hi there! I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical
 
 My research interests are in creating scalable, robust, and adaptable decision-making algorithms. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
 
-My current aim is to create pretrained models for decision-making that generalize to out-of-distribution tasks and environments via in-context learning. I believe that semi-parametric methods (e.g., retrieval + transformers) will help achieve this goal.
+My current aim is to create embodied foundation models for decision-making that generalize to out-of-distribution tasks and environments via in-context learning. I believe that semi-parametric methods (e.g., retrieval + transformers) will help achieve this goal. 
 
 Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> in 2019. 
 
