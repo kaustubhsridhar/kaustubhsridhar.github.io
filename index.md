@@ -14,7 +14,7 @@ I am interested in creating generalist agents that are highly adaptable and effi
 
 My recent work on ["REGENT: A Retrieval-Augmented Generalist Agent That Can Act in-Context In New Environments"](https://kaustubhsridhar.github.io/assets/REGENT.pdf) builds towards this goal.
 
-In the past, I have interned at [AWS AI Labs](https://aws.amazon.com/machine-learning/ai-services/) (twice!) and [Ford and VW's self-driving unit](https://www.argo.ai/).
+In the past, I have interned twice at [AWS AI Labs](https://aws.amazon.com/machine-learning/ai-services/) and once at [Ford and VW's self-driving unit](https://www.argo.ai/).
 
 Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> in 2019. 
 
