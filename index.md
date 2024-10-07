@@ -12,7 +12,7 @@ Hi there! I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical
 
 I am interested in creating generalist agents that are highly adaptable and efficient. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
 
-My recent work on ["REGENT: A Retrieval-Augmented Generalist Agent That Can Act in-Context In New Environments"]() build towards this goal.
+My recent work on ["REGENT: A Retrieval-Augmented Generalist Agent That Can Act in-Context In New Environments"]() builds towards this goal.
 
 In the past, I have interned at [AWS AI Labs](https://aws.amazon.com/machine-learning/ai-services/) (twice!) and Ford and VW's self-driving [unit](https://www.argo.ai/).
 
