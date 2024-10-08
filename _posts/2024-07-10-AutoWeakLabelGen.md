@@ -8,5 +8,5 @@ types: []
 tags: [other]
 category: code
 comments: true
-externalimg: assets/AutoWeakLableGenIntro.png
+externalimg: assets/AutoWeakLabelGenIntro.png
 ---
