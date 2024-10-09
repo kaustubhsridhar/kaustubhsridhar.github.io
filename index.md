@@ -8,7 +8,7 @@ permalink: /
 
 <h1 id="hi">Kaustubh Sridhar</h1>
 
-Hi there! I'm a PhD candidate in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania, where I'm advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a>. I also closely collaborate with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>, <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>, and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
+Hi there! I'm a final-year PhD student in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania, where I'm advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a>. I also closely collaborate with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>, <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>, and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
 
 I am interested in creating generalist agents that are highly adaptable and efficient, for both the digital and the physical world. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
 
