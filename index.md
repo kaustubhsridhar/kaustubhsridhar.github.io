@@ -10,7 +10,7 @@ permalink: /
 
 Hi there! I'm a final-year PhD student in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania, where I'm advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a>. I also closely collaborate with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>, <a href="https://www.seas.upenn.edu/~weimerj">James Weimer</a>, and <a href="https://www.cis.upenn.edu/~sokolsky/">Oleg Sokolsky</a>. 
 
-I am interested in creating adaptive generalist agents that are parameter- and sample-efficient, for the digital and physical world. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
+I am interested in creating adaptive generalist agents that are parameter- and sample-efficient, for the digital and physical worlds. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
 
 My recent work on a [Retrieval-Augmented Generalist Agent](https://kaustubhsridhar.github.io/regent-research/static/docs/REGENT.pdf) directly aims for this goal.
 
