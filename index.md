@@ -16,7 +16,7 @@ My recent work on a [Retrieval-Augmented Generalist Agent](https://kaustubhsridh
 
 In the past, I have interned twice at [AWS AI Labs](https://aws.amazon.com/machine-learning/ai-services/) and once at [Ford and VW's self-driving unit](https://www.argo.ai/).
 
-Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a> in 2019. 
+Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a>. 
 
 My CV can be found <a href="cv.pdf" target="_blank">here</a>.
 
