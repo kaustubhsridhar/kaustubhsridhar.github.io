@@ -12,7 +12,7 @@ Hi there! I'm a final-year PhD student in <a href="https://www.ese.upenn.edu/">E
 
 I am interested in creating adaptive generalist agents that are parameter- and sample-efficient, for the digital and physical worlds. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
 
-My recent work on a [Retrieval-Augmented Generalist Agent](https://kaustubhsridhar.github.io/regent-research/static/docs/REGENT.pdf) directly aims for this goal.
+My recent work on a [Retrieval-Augmented Generalist Agent](https://kaustubhsridhar.github.io/regent-research/) directly aims for this goal.
 
 In the past, I have interned twice at [AWS AI Labs](https://aws.amazon.com/machine-learning/ai-services/) and once at [Ford and VW's self-driving unit](https://www.argo.ai/).
 
