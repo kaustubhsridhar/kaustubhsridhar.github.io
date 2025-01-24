@@ -8,5 +8,5 @@ types: []
 tags: [all, reinforcement and imitation learning]
 category: code
 comments: true
-externalimg: assets/cloud_eval.png
+externalimg: assets/CLOUD_BPP_Animation.gif
 ---
