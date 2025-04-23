@@ -43,7 +43,7 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
 * KVPY Fellowship, Gov. of India, 2015
 * Dan 1 (black belt), Shotokan Karate Association, 2011
 
-<h1 id="research_experience">Invited Talks</h1>
+<h1 id="research_experience">Selected Invited Talks</h1>
 * Training Adaptive and Sample-Efficient Generalist Embodied Agents
   * Apr 2025: NTU Singapore
   * Nov 2024: Google Deepmind
