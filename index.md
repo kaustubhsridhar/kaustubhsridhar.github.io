@@ -31,6 +31,7 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
 <!-- with <a href="https://sites.google.com/site/muralibalki">Murali Narayanaswamy</a> and <a href="https://abishek90.github.io/">Abishek Sankaraman</a>. -->
 
 <h1 id="awards">Awards</h1>
+* Oral Presentation (top 1.8% of 11672 submissions) for <a href="https://kaustubhsridhar.github.io/regent-research/">REGENT</a> at ICLR 2025
 * Best Paper Award Nomination for <a href="https://arxiv.org/abs/2207.11769">CODiT</a> at ICCPS 2023
 * <a href="https://nips.cc/Conferences/2022/ProgramCommittee#%23:~:text=Katsuhiko%20Ishiguro-,Kaustubh%20Sridhar,Ke%20Sun,-Keane%20Lucas">Top Reviewer</a> (top 10%), NeurIPS 2022
 * <a href="https://icml.cc/Conferences/2022/Reviewers#%23:~:text=Kartik%20Sreenivasan-,kaustubh%20sridhar,-Ke%20Sun">Outstanding Reviewer</a> (top 10%), ICML 2022
@@ -41,6 +42,12 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
 * SN Bose Scholarship, Gov. of India, 2018 
 * KVPY Fellowship, Gov. of India, 2015
 * Dan 1 (black belt), Shotokan Karate Association, 2011
+
+<h1 id="research_experience">Invited Talks</h1>
+* Training Adaptive and Sample-Efficient Generalist Embodied Agents
+  * Apr 2025: NTU Singapore
+  * Nov 2024: Google Deepmind
+  * Nov 2024: Apple MLR
 
 <h1 id="media">Media</h1>
 * <p align="left">
