@@ -8,7 +8,7 @@ permalink: /
 
 <h1 id="hi">Kaustubh Sridhar</h1>
 
-Hi there! I'm a research scientist at Google Deepmind working on general agents.
+Hi there! I'm a research scientist at <a href="https://deepmind.google/">Google Deepmind</a> working on general agents.
 
 I defended my PhD student in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania where I was advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and closely collaborated with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>. 
 
