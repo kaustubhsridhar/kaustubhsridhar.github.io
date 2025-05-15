@@ -10,7 +10,7 @@ permalink: /
 
 Hi there! I'm a research scientist at <a href="https://deepmind.google/">Google Deepmind</a> working on general agents.
 
-I defended my PhD student in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania where I was advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and closely collaborated with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>. 
+I defended my PhD in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania where I was advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and closely collaborated with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>. 
 
 I am interested in creating adaptive generalist agents that are parameter- and sample-efficient, for the digital and physical worlds. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
 
