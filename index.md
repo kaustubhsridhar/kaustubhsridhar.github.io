@@ -45,8 +45,9 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
 * KVPY Fellowship, Gov. of India, 2015
 * Dan 1 (black belt), Shotokan Karate Association, 2011
 
-<h1 id="research_experience">Selected Invited Talks</h1>
-* Training Adaptive and Sample-Efficient Generalist Embodied Agents
+<h1 id="research_experience">Selected Talks</h1>
+* I gave an Oral Talk at ICLR 2025 in Singapore on [REGENT](https://kaustubhsridhar.github.io/regent-research/), our generalist embodied agent. Please find a recording of this talk (including Q&A) at [this link](https://iclr.cc/virtual/2025/oral/31863). 
+* I gave talks about training adaptive and sample-efficient generalist embodied agents to different audiences:
   * Apr 2025: NTU Singapore
   * Nov 2024: Google Deepmind
   * Nov 2024: Apple MLR
