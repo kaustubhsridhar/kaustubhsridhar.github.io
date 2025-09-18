@@ -10,7 +10,7 @@ permalink: /
 
 Hi there! I'm a research scientist at <a href="https://deepmind.google/">Google Deepmind</a>.
 
-At GDM, I am building world models ([Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)) for robotics. Our goals are to tackle the biggest problems in robotics today-- evals and data. I am also a part of the general embodied agent effort ([SIMA](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)).
+At GDM, I am building world models ([Genie 3](https://deepmind.google/discover/blog/genie-3-a-new-frontier-for-world-models/)) for robotics. Our goals are to tackle the biggest problems in robotics today-- evals and data for VLAs. I am also a part of the general embodied agent effort ([SIMA](https://deepmind.google/discover/blog/sima-generalist-ai-agent-for-3d-virtual-environments/)).
 
 I defended my PhD in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania where I was advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and closely collaborated with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>. 
 
