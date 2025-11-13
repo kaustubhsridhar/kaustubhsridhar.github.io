@@ -12,9 +12,11 @@ Hi there! I'm a research scientist at <a href="https://deepmind.google/">Google 
 
 I defended my PhD in <a href="https://www.ese.upenn.edu/">Electrical and Systems Engineering</a> at the University of Pennsylvania where I was advised by <a href="https://www.cis.upenn.edu/~lee/home/index.shtml">Insup Lee</a> and closely collaborated with <a href="https://www.seas.upenn.edu/~dineshj/">Dinesh Jayaraman</a>. 
 
-I am interested in creating world models and general embodied agents for the digital and physical worlds. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
+I am interested in creating adaptive generalist agents that are parameter- and sample-efficient, for the digital and physical worlds. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
 
-My recent work on a [retrieval-augmented generalist agent](https://kaustubhsridhar.github.io/regent-research/) and [adding in-context adaptability to pre-trained VLAs](https://ricl-vla.github.io/) directly aims for the latter goal.
+My recent work on a [retrieval-augmented generalist agent](https://kaustubhsridhar.github.io/regent-research/) and [adding in-context adaptability to pre-trained VLAs](https://ricl-vla.github.io/) directly aims for this goal.
+
+For the physical world in particular, I believe that world models are the critical breakthrough necessary to transcend this goal and reach embodied AGI. For this reason, my efforts at Google Deepmind are focused on world modeling for robotics.
 
 In the past, I have interned twice at [AWS AI Labs](https://aws.amazon.com/machine-learning/ai-services/) and once at [Ford and VW's self-driving unit](https://www.argo.ai/).
 
