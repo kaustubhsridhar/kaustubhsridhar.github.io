@@ -58,13 +58,13 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
 * SIMA 2 Media Coverage:
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 10px; margin-bottom: 15px;">
   <a href="https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games" target="_blank">
-    <img src="assets/logos/the_verge.png" height="25" alt="The Verge">
+    <img style="border:solid;" src="assets/logos/the-verge.png" height="30" alt="The Verge">
   </a>
   <a href="https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/" target="_blank">
-    <img src="assets/logos/mit_tech_review.png" height="25" alt="MIT Tech Review">
+    <img style="border:solid;" src="assets/logos/mit_tech_review.png" height="30" alt="MIT Tech Review">
   </a>
   <a href="https://techcrunch.com/2025/11/13/googles-sima-2-agent-uses-gemini-to-reason-and-act-in-virtual-worlds/" target="_blank">
-    <img src="assets/logos/the_techcrunch.png" height="25" alt="TechCrunch">
+    <img style="border:solid;" src="assets/logos/techcrunch.png" height="30" alt="TechCrunch">
   </a>
 </div>
 Additional Coverage: 
@@ -78,7 +78,7 @@ Additional Coverage:
 * Spotlight On My Research:
 <p align="left">
   <a href="https://blog.seas.upenn.edu/making-better-decisions-with-ai/">
-  <img src="assets/penn_media.png" width="180" height="21" alt="Penn Engineering Today (Blog)">
+  <img style="border:solid;" src="assets/penn_media.png" width="180" height="21" alt="Penn Engineering Today (Blog)">
   </a>
 </p>
 
