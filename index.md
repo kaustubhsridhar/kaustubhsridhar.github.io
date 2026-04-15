@@ -55,11 +55,32 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
   * Nov 2024: Apple MLR
 
 <h1 id="media">Media</h1>
-* <p align="left">
+* SIMA 2 Media Coverage:
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 10px; margin-bottom: 15px;">
+  <a href="https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games" target="_blank">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/16216480277576574714" height="25" alt="The Verge">
+  </a>
+  <a href="https://www.technologyreview.com/2025/11/13/1127921/google-deepmind-is-using-gemini-to-train-agents-inside-goat-simulator-3/" target="_blank">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/11032168435356482588" height="25" alt="MIT Tech Review">
+  </a>
+  <a href="https://techcrunch.com/2025/11/13/googles-sima-2-agent-uses-gemini-to-reason-and-act-in-virtual-worlds/" target="_blank">
+    <img src="http://googleusercontent.com/image_collection/image_retrieval/13430266504080396414" height="25" alt="TechCrunch">
+  </a>
+</div>
+Additional Coverage: 
+  <a href="https://www.therundown.ai/p/ais-autonomous-attack-era-begins?_bhlid=4eaa234680798ad3bdb45514b5705f029891f88c" target="_blank">The RunDown AI</a>, 
+  <a href="https://the-decoder.com/deepminds-latest-ai-agent-learns-by-exploring-unfamiliar-games-and-ai-built-worlds/" target="_blank">The Decoder</a>, 
+  <a href="https://winbuzzer.com/2025/11/13/google-deepminds-sima-2-ai-agent-can-auto-train-in-3d-worlds-xcxwbn/" target="_blank">WinBuzzer</a>, 
+  <a href="https://siliconangle.com/2025/11/13/google-deepminds-sima-2-agent-learns-think-act-inside-virtual-worlds/" target="_blank">SiliconANGLE</a>, 
+  <a href="https://www.forwardfuture.ai/p/ai-chips-race-google-s-sima-2-leap-china-s-cyber-automation" target="_blank">Forward Future</a>, 
+  <a href="https://www.techbuzz.ai/articles/google-s-sima-2-ai-masters-gaming-to-advance-agi-race" target="_blank">The Tech Buzz</a>, 
+  <a href="https://decrypt.co/348569/google-deepmind-ai-agent-learns-adapts-plays-games-like-human" target="_blank">Decrypt</a>
+* Spotlight On My Research:
+<p align="left">
   <a href="https://blog.seas.upenn.edu/making-better-decisions-with-ai/">
   <img style="border:solid;" src="assets/penn_media.png" width="180" height="21" alt="Penn Engineering Today (Blog)">
   </a>
-  </p>
+</p>
 
 <h1 id="publications">Publications</h1>
 Please select one of the following topics.
