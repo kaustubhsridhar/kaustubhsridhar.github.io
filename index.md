@@ -78,7 +78,7 @@ Additional Coverage:
 * Spotlight On My Research:
 <p align="left">
   <a href="https://blog.seas.upenn.edu/making-better-decisions-with-ai/">
-  <img style="border:solid;" src="assets/penn_media.png" height="50" alt="Penn Engineering Today (Blog)">
+  <img style="border:solid;" src="assets/penn_media.png" height="25" alt="Penn Engineering Today (Blog)">
   </a>
 </p>
 
