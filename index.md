@@ -14,9 +14,7 @@ I defended my PhD in <a href="https://www.ese.upenn.edu/">Electrical and Systems
 
 I am interested in creating adaptive generalist agents that are parameter- and sample-efficient, for the digital and physical worlds. Towards this goal, I have worked on generative models and in-context learning, deep reinforcement and imitation learning (particularly from large offline datasets), and robust deep learning.
 
-My recent work on the [SIMA agent that can play any 3D virtual world](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/), [adding in-context adaptability to pre-trained VLAs](https://ricl-vla.github.io/), and a [retrieval-augmented generalist agent](https://kaustubhsridhar.github.io/regent-research/) directly aims for this goal.
-
-For the physical world in particular, I believe that world models are the critical breakthrough necessary to transcend this goal and reach embodied AGI. For this reason, my efforts at Google Deepmind are focused on world modeling and robotics.
+My recent work on the [SIMA agent that can act in any 3D virtual world](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/), [Gemini Robotics 2](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/), [adding in-context adaptability to pre-trained VLAs](https://ricl-vla.github.io/), and a [retrieval-augmented generalist agent](https://kaustubhsridhar.github.io/regent-research/) directly aims for this goal.
 
 In the past, I have interned twice at [AWS AI Labs](https://aws.amazon.com/machine-learning/ai-services/) and once at [Ford and VW's self-driving unit](https://www.argo.ai/).
 
