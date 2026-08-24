@@ -55,6 +55,22 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
   * Nov 2024: Apple MLR
 
 <h1 id="media">Media</h1>
+* Gemini Robotics 2 Media Coverage:
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 10px; margin-bottom: 15px;">
+  <a href="https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body" target="_blank">
+    <img style="border:solid;" src="assets/logos/the-verge.png" height="60" alt="The Verge">
+  </a>
+  <a href="https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity" target="_blank">
+    <img style="border:solid;" src="assets/logos/bloomberg.jpg" height="60" alt="MIT Tech Review">
+  </a>
+  <a href="https://www.wired.com/story/google-gemini-can-control-humanoid-robots/" target="_blank">
+    <img style="border:solid;" src="assets/logos/wired.png" height="60" alt="TechCrunch">
+  </a>
+</div>
+Additional Coverage: 
+  <a href="https://www.cnet.com/videos/google-deepmind-shows-off-gemini-robotics-2-doing-chores-and-the-future-is-here/" target="_blank">CNET</a>, 
+  <a href="https://mashable.com/tech/google-deepmind-gemini-robotics-2-household-chores" target="_blank">Mashable</a>, 
+  <a href="https://arstechnica.com/ai/2026/07/google-reveals-gemini-robotics-2-0-promising-improved-dexterity-and-safety/" target="_blank">Ars Technica</a>, 
 * SIMA 2 Media Coverage:
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 10px; margin-bottom: 15px;">
   <a href="https://www.theverge.com/tech/819937/google-deepmind-ai-agent-sima-2-agi-video-games" target="_blank">
