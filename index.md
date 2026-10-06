@@ -19,7 +19,7 @@ I am interested in creating adaptive generalist agents for the physical and digi
 <!--My recent work on the [SIMA agent that can act in any 3D virtual world](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/), [Gemini Robotics 2](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/), [adding in-context adaptability to pre-trained VLAs](https://ricl-vla.github.io/), and a [retrieval-augmented generalist agent](https://kaustubhsridhar.github.io/regent-research/) directly aims for this goal.-->
 <!--My recent work includes [Gemini Robotics 2](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/), the [SIMA agent that can act in any 3D virtual world](https://deepmind.google/blog/sima-2-an-agent-that-plays-reasons-and-learns-with-you-in-virtual-3d-worlds/), [RICL: adding in-context adaptability to pre-trained VLAs](https://ricl-vla.github.io/), and [REGENT: a retrieval-augmented generalist agent](https://kaustubhsridhar.github.io/regent-research/).-->
 
-In the past, I have interned twice at [AWS AI Labs](https://aws.amazon.com/machine-learning/ai-services/) and once at [Ford and VW's self-driving unit](https://www.argo.ai/).
+<!--In the past, I have interned twice at [AWS AI Labs](https://aws.amazon.com/machine-learning/ai-services/) and once at [Ford and VW's self-driving unit](https://www.argo.ai/).-->
 
 Before starting my PhD, I graduated with honors from the <a href="https://www.iitb.ac.in/">Indian Institute of Technology Bombay</a>. 
 
