@@ -5,7 +5,7 @@ rinfo: <a href="https://sites.google.com/view/kantaros/">Yiannis Kantaros</a>, T
 pdf: https://arxiv.org/abs/2002.09792
 date:   2022-06-01 23:00:00
 types: []
-tags: [all, robust deep learning]
+tags: [all, representative, robust deep learning]
 category: code
 comments: true
 externalimg: assets/twosigns.png

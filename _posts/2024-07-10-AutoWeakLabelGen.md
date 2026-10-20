@@ -5,7 +5,7 @@ rinfo: Jean Park, Sydney Pugh, <u>Kaustubh Sridhar</u>, Mengyu Liu, Navish Yarna
 pdf: https://arxiv.org/abs/2407.07982
 date: 2024-07-10 22:00:00
 types: []
-tags: [other]
+tags: [all, other]
 category: code
 comments: true
 externalimg: assets/AutoWeakLabelGenIntro.png

@@ -6,7 +6,7 @@ pdf: https://ieeexplore.ieee.org/abstract/document/9984726
 codelink: https://github.com/kaustubhsridhar/Hidden_attack_RTSS22
 date:   2022-05-01 23:00:00
 types: []
-tags: [other]
+tags: [all, other]
 category: code
 comments: true
 externalimg: assets/airsim.png

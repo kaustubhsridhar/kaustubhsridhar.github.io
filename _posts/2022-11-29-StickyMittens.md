@@ -5,7 +5,7 @@ rinfo: Souradeep Dutta, <u>Kaustubh Sridhar</u>, <a href="https://obastani.githu
 pdf: https://arxiv.org/abs/2202.12967
 date:   2022-11-29 22:15:00
 types: []
-tags: [all, reinforcement and imitation learning]
+tags: [all, representative, reinforcement and imitation learning]
 category: code
 comments: true
 externalimg: assets/combined_fetch_gfootball.gif
