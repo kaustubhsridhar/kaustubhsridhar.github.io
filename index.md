@@ -56,16 +56,38 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
   * Nov 2024: Apple MLR
 
 <h1 id="media">Media</h1>
+* Genie 4 Media Coverage:
+<div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 10px; margin-bottom: 15px;">
+  <a href="https://www.bloomberg.com/news/articles/2026-10-27/google-upgrades-ai-world-model-that-rattled-video-game-stocks" target="_blank">
+    <img style="border:solid;" src="assets/logos/bloomberg.jpg" height="60" alt="Bloomberg">
+  </a>
+  <a href="https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/" target="_blank">
+    <img style="border:solid;" src="assets/logos/techcrunch.png" height="60" alt="TechCrunch">
+  </a>
+  <a href="https://www.theverge.com/tech/1019076/google-genie-4-ai-model" target="_blank">
+    <img style="border:solid;" src="assets/logos/the-verge.png" height="60" alt="The Verge">
+  </a>
+  <a href="https://www.forbes.com/sites/johnwerner/2026/10/29/genie-4-script-your-world-in-real-time/" target="_blank">
+    <img style="border:solid;" src="assets/logos/forbes.png" height="60" alt="Forbes">
+  </a>
+</div>
+Additional Coverage: 
+  <a href="https://www.cnet.com/tech/services-and-software/google-genie-4-gemini-4-carbon-ai-news/" target="_blank">CNET</a>, 
+  <a href="https://arstechnica.com/google/2026/10/deepminds-genie-4-world-model-adds-audio-and-more-realistic-people-to-simulations/" target="_blank">Ars Technica</a>, 
+  <a href="https://www.tomsguide.com/ai/google-just-unveiled-genie-4-and-it-could-change-video-games-forever" target="_blank">Tom's Guide</a>, 
 * Gemini Robotics 2 Media Coverage:
 <div style="display: flex; flex-wrap: wrap; gap: 20px; align-items: center; margin-top: 10px; margin-bottom: 15px;">
   <a href="https://www.theverge.com/tech/973276/google-deepmind-gemini-robotics-2-whole-body" target="_blank">
     <img style="border:solid;" src="assets/logos/the-verge.png" height="60" alt="The Verge">
   </a>
   <a href="https://www.bloomberg.com/news/articles/2026-07-30/google-unveils-gemini-ai-for-robots-struggling-with-dexterity" target="_blank">
-    <img style="border:solid;" src="assets/logos/bloomberg.jpg" height="60" alt="MIT Tech Review">
+    <img style="border:solid;" src="assets/logos/bloomberg.jpg" height="60" alt="Bloomberg">
   </a>
   <a href="https://www.wired.com/story/google-gemini-can-control-humanoid-robots/" target="_blank">
-    <img style="border:solid;" src="assets/logos/wired.png" height="60" alt="TechCrunch">
+    <img style="border:solid;" src="assets/logos/wired.png" height="60" alt="Wired">
+  </a>
+  <a href="https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/" target="_blank">
+    <img style="border:solid;" src="assets/logos/forbes.png" height="60" alt="Forbes">
   </a>
 </div>
 Additional Coverage: 
