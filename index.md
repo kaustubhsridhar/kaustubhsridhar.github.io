@@ -68,7 +68,7 @@ My CV can be found <a href="cv.pdf" target="_blank">here</a>.
     <img style="border:solid;" src="assets/logos/the-verge.png" height="60" alt="The Verge">
   </a>
   <a href="https://www.forbes.com/sites/johnwerner/2026/10/29/genie-4-script-your-world-in-real-time/" target="_blank">
-    <img style="border:solid;" src="assets/logos/forbes.png" height="60" alt="Forbes">
+    <img style="border:solid;" src="assets/logos/forbes.svg" height="60" alt="Forbes">
   </a>
 </div>
 Additional Coverage: 
@@ -87,7 +87,7 @@ Additional Coverage:
     <img style="border:solid;" src="assets/logos/wired.png" height="60" alt="Wired">
   </a>
   <a href="https://www.forbes.com/sites/johnkoetsier/2026/09/22/google-is-giving-away-the-android-of-robotics/" target="_blank">
-    <img style="border:solid;" src="assets/logos/forbes.png" height="60" alt="Forbes">
+    <img style="border:solid;" src="assets/logos/forbes.svg" height="60" alt="Forbes">
   </a>
 </div>
 Additional Coverage: 
